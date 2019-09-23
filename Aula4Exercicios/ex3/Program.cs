@@ -41,10 +41,10 @@ namespace ex3
                 id = int.Parse(Console.ReadLine() );
 
 
-                produto = nomeProduto[id];
-                cor = corProduto[id];
-                tamanho = tamanhoProduto[id];
-                price = priceProduto[id];
+                produto = nomeProduto[id - 1];
+                cor = corProduto[id - 1];
+                tamanho = tamanhoProduto[id - 1];
+                price = priceProduto[id - 1];
 
                 produtoDescribe = ( $" Nome :{produto}\n Cor:{cor}\n Tamanho:{tamanho}\n Preço: R${price}");
 
