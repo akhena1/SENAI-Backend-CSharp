@@ -7,7 +7,7 @@ namespace ex7
         static void Main(string[] args)
         {
             double[]vetor = new double[10];
-            double maior = 0;
+            double maior = -9999999999;
             int contador = 0;
 
             Console.WriteLine("Digite uma sequência de 10 números. Aperte enter para enviar cada um");
@@ -23,8 +23,7 @@ namespace ex7
 
                 }    
             }
-            string resultado = ($"O maior número do vetor é o {maior} e ele esta localizado no índice {contador} do vetor");
-            Console.WriteLine(resultado);
+            Console.WriteLine($"O maior número do vetor é o {maior} e ele esta localizado no índice {contador} do vetor");
 
         }
     }
