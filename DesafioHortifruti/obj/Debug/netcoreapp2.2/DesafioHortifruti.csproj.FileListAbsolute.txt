@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\bin\Debug\netcoreapp2.2\DesafioHortifruti.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\bin\Debug\netcoreapp2.2\DesafioHortifruti.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\bin\Debug\netcoreapp2.2\DesafioHortifruti.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\bin\Debug\netcoreapp2.2\DesafioHortifruti.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\bin\Debug\netcoreapp2.2\DesafioHortifruti.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\obj\Debug\netcoreapp2.2\DesafioHortifruti.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\obj\Debug\netcoreapp2.2\DesafioHortifruti.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\obj\Debug\netcoreapp2.2\DesafioHortifruti.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\obj\Debug\netcoreapp2.2\DesafioHortifruti.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\obj\Debug\netcoreapp2.2\DesafioHortifruti.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\DesafioHortifruti\obj\Debug\netcoreapp2.2\DesafioHortifruti.pdb
