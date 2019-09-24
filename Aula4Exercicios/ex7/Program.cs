@@ -7,7 +7,7 @@ namespace ex7
         static void Main(string[] args)
         {
             double[]vetor = new double[10];
-            double maior = -9999999999;
+            double maior = 0;
             int contador = 0;
 
             Console.WriteLine("Digite uma sequência de 10 números. Aperte enter para enviar cada um");
@@ -16,6 +16,11 @@ namespace ex7
 
                 vetor[i] = int.Parse(Console.ReadLine() );
 
+                if( i == 0){
+
+                    maior = vetor[i];
+
+                }
                 if(vetor[i] > maior){
 
                     maior = vetor[i];
