@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\bin\Debug\netcoreapp2.2\Aula6 - CNPJ.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\bin\Debug\netcoreapp2.2\Aula6 - CNPJ.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\bin\Debug\netcoreapp2.2\Aula6 - CNPJ.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\bin\Debug\netcoreapp2.2\Aula6 - CNPJ.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\bin\Debug\netcoreapp2.2\Aula6 - CNPJ.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\obj\Debug\netcoreapp2.2\Aula6 - CNPJ.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\obj\Debug\netcoreapp2.2\Aula6 - CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\obj\Debug\netcoreapp2.2\Aula6 - CNPJ.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\obj\Debug\netcoreapp2.2\Aula6 - CNPJ.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\obj\Debug\netcoreapp2.2\Aula6 - CNPJ.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula6 - CNPJ\obj\Debug\netcoreapp2.2\Aula6 - CNPJ.pdb
