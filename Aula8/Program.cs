@@ -6,7 +6,14 @@ namespace Aula8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] v1 = {"A" , "B" , "C"};
+     
+
+            // Laço FOREACH (para cada)
+            foreach (string letra in v1)
+            {
+                Console.WriteLine(letra);
+            }
         }
     }
 }
