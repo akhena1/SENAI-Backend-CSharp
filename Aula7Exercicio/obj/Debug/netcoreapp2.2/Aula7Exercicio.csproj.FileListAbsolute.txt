@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\obj\Debug\netcoreapp2.2\Aula7Exercicio.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\obj\Debug\netcoreapp2.2\Aula7Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\obj\Debug\netcoreapp2.2\Aula7Exercicio.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\obj\Debug\netcoreapp2.2\Aula7Exercicio.AssemblyInfo.cs
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\bin\Debug\netcoreapp2.2\Aula7Exercicio.deps.json
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\bin\Debug\netcoreapp2.2\Aula7Exercicio.runtimeconfig.json
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\bin\Debug\netcoreapp2.2\Aula7Exercicio.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\bin\Debug\netcoreapp2.2\Aula7Exercicio.dll
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\bin\Debug\netcoreapp2.2\Aula7Exercicio.pdb
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\obj\Debug\netcoreapp2.2\Aula7Exercicio.dll
+C:\Users\fic\Desktop\Nova pasta\Aula7Exercicio\obj\Debug\netcoreapp2.2\Aula7Exercicio.pdb
