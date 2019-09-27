@@ -21,7 +21,7 @@ namespace ex4
                         
             foreach(double vetor in valor)
             {
-                if(vetor == 0)
+                if(vetor < 0)
                 {
                     maior = vetor;
                 }
