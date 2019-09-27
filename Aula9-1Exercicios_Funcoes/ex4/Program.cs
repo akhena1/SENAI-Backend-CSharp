@@ -9,6 +9,12 @@ namespace ex4
               double[] v1 = {1234, 1234, 1234, 1234, 6534};
               Console.WriteLine(MaiorIndice(v1));     
         }
+
+        /// <summary>
+        /// Função que capura o maior número de um vetor
+        /// </summary>
+        /// <param name="valor"></param>
+        /// <returns>Maior conteúdo do vetor</returns>
         static double MaiorIndice(double[] valor)
         {
             double maior = 0;

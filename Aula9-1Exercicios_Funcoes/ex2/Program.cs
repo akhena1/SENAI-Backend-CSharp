@@ -10,6 +10,10 @@ namespace ex2
             Console.Write("Today is ");
             DiaDaSemana();
         }
+
+        /// <summary>
+        /// Função que mostra o dia da semana
+        /// </summary>
         static void DiaDaSemana(){
             
             Console.WriteLine(DateTime.Now.DayOfWeek);
