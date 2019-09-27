@@ -24,12 +24,28 @@ namespace Aula7Exercicio
 
             testilo.Name = "\tCor do tiulo";
 
-            testilo.CharacterFormat.TextColor = Color.AliceBlue;
+            Paragraph title2 = s1.AddParagraph();
+
+            title2.AppendText("\t\n\nTexto em negrito, sublinhado e italico, fonte arial 18\n\n");
+
+
+            testilo.CharacterFormat.TextColor = Color.Black;
             testilo.CharacterFormat.Bold = true;
             testilo.CharacterFormat.Italic = true;
             testilo.CharacterFormat.UnderlineStyle = UnderlineStyle.Single;
             testilo.CharacterFormat.FontSize = 18;
             testilo.CharacterFormat.FontName ="Arial";
+
+            ex1.Styles.Add(testilo);
+
+            testilo.Name = "Cor do titulo";
+
+            
+            title2.ApplyStyle(testilo.Name);
+
+
+
+            
 
             Table tabela = s1.AddTable(true);
 

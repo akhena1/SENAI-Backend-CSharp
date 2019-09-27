@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\bin\Debug\netcoreapp2.2\exemplos.deps.json
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\bin\Debug\netcoreapp2.2\exemplos.runtimeconfig.json
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\bin\Debug\netcoreapp2.2\exemplos.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\bin\Debug\netcoreapp2.2\exemplos.dll
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\bin\Debug\netcoreapp2.2\exemplos.pdb
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\obj\Debug\netcoreapp2.2\exemplos.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\obj\Debug\netcoreapp2.2\exemplos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\obj\Debug\netcoreapp2.2\exemplos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\obj\Debug\netcoreapp2.2\exemplos.AssemblyInfo.cs
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\obj\Debug\netcoreapp2.2\exemplos.dll
+C:\Users\fic\Desktop\Nova pasta\Aula7\exemplos\obj\Debug\netcoreapp2.2\exemplos.pdb

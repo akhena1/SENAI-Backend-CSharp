@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\Nova pasta\\Aula7Exercicio\\Aula7Exercicio.csproj": {}
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula7Exercicio\\Aula7Exercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\Nova pasta\\Aula7Exercicio\\Aula7Exercicio.csproj": {
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula7Exercicio\\Aula7Exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Nova pasta\\Aula7Exercicio\\Aula7Exercicio.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula7Exercicio\\Aula7Exercicio.csproj",
         "projectName": "Aula7Exercicio",
-        "projectPath": "C:\\Users\\fic\\Desktop\\Nova pasta\\Aula7Exercicio\\Aula7Exercicio.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula7Exercicio\\Aula7Exercicio.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\Nova pasta\\Aula7Exercicio\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula7Exercicio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
