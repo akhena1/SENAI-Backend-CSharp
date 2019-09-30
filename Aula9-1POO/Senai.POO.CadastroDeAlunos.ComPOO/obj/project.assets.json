@@ -686,30 +686,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\33747821839\\.nuget\\packages\\": {},
+    "C:\\Users\\fic\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\33747821839\\Documents\\Ariel\\2s2019-monitoria\\Aulas\\POO - Programação Orientada a Objetos\\Exemplos\\Senai.POO.CadastroDeAlunos\\Senai.POO.CadastroDeAlunos.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula9-1POO\\Senai.POO.CadastroDeAlunos.ComPOO\\Senai.POO.CadastroDeAlunos.csproj",
       "projectName": "Senai.POO.CadastroDeAlunos",
-      "projectPath": "C:\\Users\\33747821839\\Documents\\Ariel\\2s2019-monitoria\\Aulas\\POO - Programação Orientada a Objetos\\Exemplos\\Senai.POO.CadastroDeAlunos\\Senai.POO.CadastroDeAlunos.csproj",
-      "packagesPath": "C:\\Users\\33747821839\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\33747821839\\Documents\\Ariel\\2s2019-monitoria\\Aulas\\POO - Programação Orientada a Objetos\\Exemplos\\Senai.POO.CadastroDeAlunos\\obj\\",
+      "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula9-1POO\\Senai.POO.CadastroDeAlunos.ComPOO\\Senai.POO.CadastroDeAlunos.csproj",
+      "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula9-1POO\\Senai.POO.CadastroDeAlunos.ComPOO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\33747821839\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

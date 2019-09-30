@@ -1,5 +1,5 @@
 ﻿using System;
-using Senai.POO.CadastroDeAlunos.Models;
+using Senai.POO.CadastroDeAlunos.ComPOO.Controllers;
 
 namespace Senai.POO.CadastroDeAlunos
 {
@@ -8,13 +8,16 @@ namespace Senai.POO.CadastroDeAlunos
         static void Main(string[] args)
         {
             //Declarando Objeto
-            AlunoModel aluno1 = new AlunoModel(); // Declarando uma nova instância
+            AlunoController aluno1 = new AlunoController(); // Declarando uma nova instância
 
             // Limpa a tela
             Console.Clear();
 
             // Cadastra um aluno.
             aluno1.CadastrarAluno();
+
+            //Espaçamento
+            System.Console.WriteLine();
 
             // Exibindo as informações
             aluno1.ExibirAluno();
