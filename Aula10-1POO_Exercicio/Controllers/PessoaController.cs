@@ -52,28 +52,28 @@ namespace Aula10_1POO_Exercicio.Controllers
 
             if(resultado <= 18.5)
             {
-                Console.WriteLine("Você esta abaixo do peso!");
+                Console.WriteLine($"Seu imc é de: {resultado} Você esta abaixo do peso!");
             }
             else if(resultado >18.5 && resultado <= 25)
             {
-                System.Console.WriteLine("Ufa! seu peso esta na média");
+                System.Console.WriteLine($"Seu imc é de: {resultado}Ufa! seu peso esta na média");
             }
             else if(resultado > 25 && resultado <= 30)
             {
-                System.Console.WriteLine("Parece que você esta um pouquinho acima do peso!");
+                System.Console.WriteLine($"Seu imc é de: {resultado}Parece que você esta um pouquinho acima do peso!");
 
             }
             else if(resultado > 30 && resultado <=35)
             {
-                System.Console.WriteLine("Procure um profissional! Seu IMC indica um grau de obesidade");
+                System.Console.WriteLine($"Seu imc é de: {resultado}Procure um profissional! Seu IMC indica um grau de obesidade");
             }
             else if(resultado > 35 && resultado <= 39)
             {
-                System.Console.WriteLine("Seu Índice de massa corporal indica Obesidade grau II");
+                System.Console.WriteLine($"Seu imc é de: {resultado}Seu Índice de massa corporal indica Obesidade grau II");
             }
             else if(resultado >=40)
             {
-                System.Console.WriteLine("Altamente recomendado que você vá a um profissional! grau de obesidade 3");
+                System.Console.WriteLine($"Seu imc é de: {resultado}Altamente recomendado que você vá a um profissional! grau de obesidade 3");
             }
         }
         
