@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\bin\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.deps.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\bin\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.runtimeconfig.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\bin\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.runtimeconfig.dev.json
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\bin\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\bin\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.pdb
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\obj\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\obj\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\obj\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\obj\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.AssemblyInfo.cs
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\obj\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.dll
+C:\Users\fic\Desktop\SENAI-Backend-CSharp\Aula11-1Poo_Heranças\obj\Debug\netcoreapp2.2\Aula11-1Poo_Heranças.pdb

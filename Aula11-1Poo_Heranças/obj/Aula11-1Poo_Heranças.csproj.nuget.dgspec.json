@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula11-1Poo_Heranças\\Aula11-1Poo_Heranças.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula11-1Poo_Heranças\\Aula11-1Poo_Heranças.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula11-1Poo_Heranças\\Aula11-1Poo_Heranças.csproj",
+        "projectName": "Aula11-1Poo_Heranças",
+        "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula11-1Poo_Heranças\\Aula11-1Poo_Heranças.csproj",
+        "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula11-1Poo_Heranças\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\fic\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
