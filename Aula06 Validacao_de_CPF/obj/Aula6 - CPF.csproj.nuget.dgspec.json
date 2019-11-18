@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula6 - CPF\\Aula6 - CPF.csproj": {}
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula06 Validacao_de_CPF\\Aula6 - CPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula6 - CPF\\Aula6 - CPF.csproj": {
+    "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula06 Validacao_de_CPF\\Aula6 - CPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula6 - CPF\\Aula6 - CPF.csproj",
+        "projectUniqueName": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula06 Validacao_de_CPF\\Aula6 - CPF.csproj",
         "projectName": "Aula6 - CPF",
-        "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula6 - CPF\\Aula6 - CPF.csproj",
+        "projectPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula06 Validacao_de_CPF\\Aula6 - CPF.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula6 - CPF\\obj\\",
+        "outputPath": "C:\\Users\\fic\\Desktop\\SENAI-Backend-CSharp\\Aula06 Validacao_de_CPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -47,10 +47,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
