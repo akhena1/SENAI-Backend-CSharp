@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Akhena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Akhena\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Akhena\Desktop\csharpi\bhaskara\bin\Debug\netcoreapp3.0\bhaskara.exe
+C:\Users\Akhena\Desktop\csharpi\bhaskara\bin\Debug\netcoreapp3.0\bhaskara.deps.json
+C:\Users\Akhena\Desktop\csharpi\bhaskara\bin\Debug\netcoreapp3.0\bhaskara.runtimeconfig.json
+C:\Users\Akhena\Desktop\csharpi\bhaskara\bin\Debug\netcoreapp3.0\bhaskara.runtimeconfig.dev.json
+C:\Users\Akhena\Desktop\csharpi\bhaskara\bin\Debug\netcoreapp3.0\bhaskara.dll
+C:\Users\Akhena\Desktop\csharpi\bhaskara\bin\Debug\netcoreapp3.0\bhaskara.pdb
+C:\Users\Akhena\Desktop\csharpi\bhaskara\obj\Debug\netcoreapp3.0\bhaskara.csprojAssemblyReference.cache
+C:\Users\Akhena\Desktop\csharpi\bhaskara\obj\Debug\netcoreapp3.0\bhaskara.AssemblyInfoInputs.cache
+C:\Users\Akhena\Desktop\csharpi\bhaskara\obj\Debug\netcoreapp3.0\bhaskara.AssemblyInfo.cs
+C:\Users\Akhena\Desktop\csharpi\bhaskara\obj\Debug\netcoreapp3.0\bhaskara.dll
+C:\Users\Akhena\Desktop\csharpi\bhaskara\obj\Debug\netcoreapp3.0\bhaskara.pdb
